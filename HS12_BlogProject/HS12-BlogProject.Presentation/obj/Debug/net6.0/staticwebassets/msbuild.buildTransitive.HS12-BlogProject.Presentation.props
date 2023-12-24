@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HS12-BlogProject.Presentation.props" />
+</Project>

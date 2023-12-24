@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HS12-BlogProject.Presentation.props" />
+</Project>

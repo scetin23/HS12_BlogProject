@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>HS12_BlogProject.Infrastructure</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.25" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HS12-BlogProject.Domain\HS12-BlogProject.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

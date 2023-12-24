@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HS12_BlogProject.API.props" />
+</Project>
